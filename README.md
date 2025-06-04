@@ -10,9 +10,9 @@
 
 ### Screenshot
 
-[React Todo App Preview (dark theme)](./Todo.jpg)
-[React Todo App Preview (light theme)](./Todo1.jpg)
+[React Todo App Preview (dark theme)](./public/Todo.jpg)
+[React Todo App Preview (light theme)](./public/Todo1.jpg)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://github.com/JuliaSemakhina/todo-react-list.git)
+- Live Site URL: [Add live site URL here](https://JuliaSemakhina.github.io/todo-react-list)
