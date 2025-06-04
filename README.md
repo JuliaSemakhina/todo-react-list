@@ -10,8 +10,8 @@
 
 ### Screenshot
 
-[React todo App Preview (dark theme)](./Todo.jpg)
-[React todo App Preview (light theme)](./Todo1.jpg)
+[React Todo App Preview (dark theme)](./Todo.jpg)
+[React Todo App Preview (light theme)](./Todo1.jpg)
 
 ### Links
 
