@@ -15,4 +15,4 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://JuliaSemakhina.github.io/todo-react-list)
+- Live Site URL: [Click here](https://JuliaSemakhina.github.io/todo-react-list)
